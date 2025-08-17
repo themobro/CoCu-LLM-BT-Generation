@@ -1,0 +1,6 @@
+==========
+{"steps":[{"type":"GOTO","args":"DoughDispenser"},{"type":"PUT"},{"type":"GOTO","args":"CuttingBoard"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"Oven"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"Oven"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"ServingWindow"},{"type":"PUT"}]}
+==========
+Prompt: 99 tokens, 309.200 tokens-per-sec
+Generation: 127 tokens, 15.332 tokens-per-sec
+Peak memory: 6.310 GB

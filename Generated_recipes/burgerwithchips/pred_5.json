@@ -1,0 +1,6 @@
+==========
+{"steps":[{"type":"GOTO","args":"BunDispenser"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"LettuceDispenser"},{"type":"PUT"},{"type":"GOTO","args":"CuttingBoard"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"TomatoDispenser"},{"type":"PUT"},{"type":"GOTO","args":"CuttingBoard"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"MeatDispenser"},{"type":"PUT"},{"type":"GOTO","args":"CuttingBoard"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"Pan"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"Stove"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"ServingWindow"},{"type":"PUT"}]}
+==========
+Prompt: 97 tokens, 300.879 tokens-per-sec
+Generation: 268 tokens, 14.299 tokens-per-sec
+Peak memory: 6.308 GB

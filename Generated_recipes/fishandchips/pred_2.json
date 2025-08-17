@@ -1,0 +1,6 @@
+==========
+{"steps":[{"type":"GOTO","args":"FishDispenser"},{"type":"PUT"},{"type":"GOTO","args":"CuttingBoard"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"DeepFryer"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"DeepFryer"},{"type":"PUT"},{"type":"GOTO","args":"PotatoDispenser"},{"type":"PUT"},{"type":"GOTO","args":"CuttingBoard"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"DeepFryer"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"DeepFryer"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"ServingWindow"},{"type":"PUT"}]}
+==========
+Prompt: 98 tokens, 299.026 tokens-per-sec
+Generation: 226 tokens, 15.293 tokens-per-sec
+Peak memory: 6.309 GB

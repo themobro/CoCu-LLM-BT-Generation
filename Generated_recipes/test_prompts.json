@@ -1,0 +1,65 @@
+{
+  "tomatosoup": [
+    "I’m craving some hot tomato soup, can you make it?",
+    "Cook me something warm with tomatoes in it.",
+    "Prepare a bowl of classic tomato soup.",
+    "Make me a quick tomato-based soup.",
+    "Serve me a comforting tomato dish."
+  ],
+  "salad": [
+    "Make me something fresh and healthy.",
+    "Prepare a green salad for me.",
+    "I want something light with lettuce and tomatoes.",
+    "Assemble a simple garden salad.",
+    "Give me a refreshing cold dish."
+  ],
+  "pizza": [
+    "Bake me a pizza.",
+    "I’m in the mood for something cheesy and baked.",
+    "Make me a dish with dough, sauce, and cheese.",
+    "Prepare a cheesy oven-baked meal.",
+    "Serve me something that comes out of the oven with cheese."
+  ],
+  "onionsoup": [
+    "Make me a warm onion soup.",
+    "Cook a soup made mainly from onions.",
+    "I’d like a bowl of onion-flavored broth.",
+    "Prepare a hearty onion dish.",
+    "Serve me soup with a strong onion taste."
+  ],
+  "friedfish": [
+    "Make me some fried fish.",
+    "Cook a crispy fish fillet for me.",
+    "Prepare a dish with battered fish.",
+    "Serve me golden fried fish.",
+    "I want fish cooked in oil."
+  ],
+  "fishandchips": [
+    "Give me fish and chips.",
+    "Serve me fried fish with a side of fries.",
+    "Prepare a plate with crispy fish and potatoes.",
+    "Cook me a British classic: fish & chips.",
+    "Make me fish served with chips."
+  ],
+  "chips": [
+    "Make me a portion of fries.",
+    "Prepare a batch of crispy chips.",
+    "Serve me fried potato sticks.",
+    "Cook me golden potato fries.",
+    "I’d like some fried potatoes."
+  ],
+  "burgerwithchips": [
+    "Give me a burger and fries.",
+    "Serve me a burger with chips on the side.",
+    "Prepare a burger meal with fries.",
+    "I want a burger combo.",
+    "Make me a plate with burger and chips."
+  ],
+  "burger": [
+    "Make me a burger.",
+    "Cook me a sandwich with meat and bread.",
+    "Prepare a beef burger.",
+    "Serve me a grilled burger patty with buns.",
+    "I want a simple burger."
+  ]
+}

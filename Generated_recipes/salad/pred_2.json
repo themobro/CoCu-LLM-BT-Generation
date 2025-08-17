@@ -1,0 +1,6 @@
+==========
+{"steps":[{"type":"GOTO","args":"OnionDispenser"},{"type":"PUT"},{"type":"GOTO","args":"CuttingBoard"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"PotatoDispenser"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"CuttingBoard"},{"type":"PUT"},{"type":"INTERACT"},{"type":"PUT"},{"type":"GOTO","args":"PlateDispenser"},{"type":"PUT"},{"type":"GOTO","args":"ServingWindow"},{"type":"PUT"}]}
+==========
+Prompt: 95 tokens, 293.035 tokens-per-sec
+Generation: 124 tokens, 14.947 tokens-per-sec
+Peak memory: 6.304 GB

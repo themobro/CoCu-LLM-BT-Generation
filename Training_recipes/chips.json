@@ -1,0 +1,27 @@
+{
+  "steps": [
+    { "type": "GOTO", "args": "PotatoDispenser" },
+    { "type": "PUT" },
+    { "type": "GOTO", "args": "CuttingBoard" },
+    { "type": "PUT" },
+    { "type": "INTERACT" },
+    { "type": "PUT" },
+    
+    { "type": "GOTO", "args": "DeepFryer" },
+    { "type": "PUT" },
+    { "type": "INTERACT" },
+    { "type": "PUT" },
+    
+    { "type": "GOTO", "args": "PlateDispenser" },
+    { "type": "PUT" },
+	
+	{ "type": "GOTO", "args": "DeepFryer" },
+    { "type": "PUT" },
+	
+	{ "type": "GOTO", "args": "PlateDispenser" },
+    { "type": "PUT" },
+    
+    { "type": "GOTO", "args": "ServingWindow" },
+    { "type": "PUT" }
+  ]
+}
